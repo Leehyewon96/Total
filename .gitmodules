@@ -1,3 +1,6 @@
 [submodule "Total/Assets/SubModuleTest/SubM1"]
 	path = Total/Assets/SubModuleTest/SubM1
 	url = https://github.com/Leehyewon96/SubM1
+[submodule "SubM1"]
+	path = SubM1
+	url = https://github.com/Leehyewon96/SubM1
